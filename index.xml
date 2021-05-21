@@ -8,12 +8,12 @@
     <language>en-us</language>
     <lastBuildDate>Thu, 20 May 2021 21:43:20 -0300</lastBuildDate><atom:link href="https://herminiotorres.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>My Preview First Post</title>
-      <link>https://herminiotorres.github.io/posts/my-preview-first-post/</link>
+      <title>My Dummy First Post</title>
+      <link>https://herminiotorres.github.io/posts/my-dummy-first-post/</link>
       <pubDate>Thu, 20 May 2021 21:43:20 -0300</pubDate>
       
-      <guid>https://herminiotorres.github.io/posts/my-preview-first-post/</guid>
-      <description>my first post on hugo This is some content.
+      <guid>https://herminiotorres.github.io/posts/my-dummy-first-post/</guid>
+      <description>seeing how this really works This is some immutability in Elixir:
 iex&amp;gt; %{first: value} = %{first: 1} iex&amp;gt; %{first: ^value} = %{first: 2} ** (MatchError) no match of right hand side value: %{first: 2} </description>
     </item>
     
